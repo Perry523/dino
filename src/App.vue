@@ -2,7 +2,7 @@
   <RouterView style="display: none" />
 </template>
 
-<script setup>
+<script setup lang="ts">
 import { RouterView } from 'vue-router'
 </script>
 <style>
